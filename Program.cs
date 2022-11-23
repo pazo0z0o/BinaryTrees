@@ -11,7 +11,7 @@ using System.Text;
 //recursive amd iterrative solutions( stack and queue) for training and understanding some concepts
 namespace BinaryTrees
 {
-    public  class AlgoMenu //: BinTreeTravs
+    public  class AlgoMenu 
     {
         public string choice;
 
