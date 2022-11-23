@@ -40,7 +40,7 @@ namespace BinaryTrees
                         Console.WriteLine("You have given an invalid choice, try again....");
                         valid = false;
                     }
-                  //need to limit choices for about our choices, even if a number was input
+                  
                 }
                 else Console.WriteLine("Not an integer number, try again");
             }
